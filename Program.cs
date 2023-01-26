@@ -76,12 +76,3 @@ if(askUserCreateArray()){
  newArray = createNewArray(array, lengthNewArray);
 showArray(newArray);
 
-// string[] newArray() {
-
-// // }
-// Console.WriteLine();
-// Console.WriteLine(askUserCreateArray());
-// string[] array = {"1234", "1567", "-2", "computer science"};
-// int maxLength;
-// Console.WriteLine(findLengthNewArray(array));
-// showArray(array);
